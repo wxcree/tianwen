@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/wangxiaocheng/Codes/UnixNetwork/unpv13e/mytest",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_REENTRANT -I/Users/wangxiaocheng/Codes/UnixNetwork/unpv13e/mytest/.. -I/Users/wangxiaocheng/Codes/UnixNetwork/unpv13e/mytest/../lib   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -g -O2 -Wall -std=gnu11 -o CMakeFiles/client.dir/client.c.o   -c /Users/wangxiaocheng/Codes/UnixNetwork/unpv13e/mytest/client.c",
+  "file": "/Users/wangxiaocheng/Codes/UnixNetwork/unpv13e/mytest/client.c"
+},
+{
+  "directory": "/Users/wangxiaocheng/Codes/UnixNetwork/unpv13e/mytest",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_REENTRANT -I/Users/wangxiaocheng/Codes/UnixNetwork/unpv13e/mytest/.. -I/Users/wangxiaocheng/Codes/UnixNetwork/unpv13e/mytest/../lib   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk   -g -O2 -Wall -std=gnu11 -o CMakeFiles/server.dir/server.c.o   -c /Users/wangxiaocheng/Codes/UnixNetwork/unpv13e/mytest/server.c",
+  "file": "/Users/wangxiaocheng/Codes/UnixNetwork/unpv13e/mytest/server.c"
+}
+]
